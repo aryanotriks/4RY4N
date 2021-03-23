@@ -47,8 +47,8 @@ print " %s============================%s|%s======================%s " % (C, B, C
 
 print " %sFB%s Group%s Hack %s16-03-2020%s (0:55)%s" % (W, B, R, C, Y, N)
 
-print " %sDevelop by: %sAUTHER %s$$$%s 4RY4N0 D3V1L%s" % (W, R, W, Y, N)
-print "                      %sWhatsApp %s+171504737%s" % (W, R, N)
+print " %sDevelop by: %slovehacker %s$$$%s Asif Javed%s" % (W, R, W, Y, N)
+print "                      %sWhatsApp %s03094161457%s" % (W, R, N)
 
 print " %sCode: %sPython%s" % (W, C, N)
 
